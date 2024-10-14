@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Напоминание YouTube</string>
+    <string name="app_title">Напоминание</string>
+    <string name="permission_warning">Вы не получите напоминания без разрешения на отправку уведомлений</string>
+    <string name="form_title">Создать напоминание</string>
+    <string name="form_text_hint">Введите напоминание</string>
+    <string name="form_date_hint">Выберите дату</string>
+    <string name="form_time_hint">Выберите время</string>
+    <string name="form_create">Создать</string>
+    <string name="toast_datetime_error">Выберите дату или выберите время!</string>
+    <string name="toast_text_error">Введите напоминание!</string>
+    <string name="toast_reminder_created">Напоминание создано!</string>
+    <string name="toast_reminder_removed">Напоминание удалено!</string>
+    <string name="new_reminder">Новое напоминание!</string>
+    <string name="settings_page_title">Настройки</string>
+    <string name="select_language">Выберите язык</string>
+    <string name="language_english">Английский</string>
+    <string name="language_russian">Русский</string>
+    <string name="dark_theme">Тёмная тема</string>
+    <string name="enable_notifications">Включить уведомления</string>
+    <string name="unknown_language">Неизвестный язык</string>
+    <string name="saved_page_title">Сохраненные</string>
+    <string name="saved_reminders">Сохраненные напоминания</string>
+</resources>
